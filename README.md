@@ -22,7 +22,7 @@ At this instance, I am in my B.Sc. Computer Science finals in [University of Ilo
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on open source project
 - 💬 Ask me about anything and everything
-- 📫 How to reach me: akinolaroseline70@yahoo.com
+- 📫 How to reach me: akinolakemi70@yahoo.com
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
