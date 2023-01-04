@@ -1,4 +1,4 @@
-## Hi, my name is Akinola Roseline (Arose), I am a Software Engineer.
+## Hi, my name is Akinola Roseline Oluwakemi (Arose), I am a Software Engineer.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Arose114)
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Arose_Oluwakemi)](https://twitter.com/Arose_Oluwakemi)
