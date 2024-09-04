@@ -1,28 +1,30 @@
-## Hi, my name is Akinola Roseline Oluwakemi (Arose), I am a Software Engineer.
+## Hi,I'm Rose.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Arose114)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-3ca0f1?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/arose114)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat-square&labelColor=c13584&logo=instagram&logoColor=white&link=https://instagram.com/_rosseline._)](https://twitter.com/_rosseline._)
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Arose_Oluwakemi)](https://twitter.com/Arose_Oluwakemi)
 <a href="https://wa.me/2348031300348?text=Hi Rose">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=flat-square&logo=whatsapp&logoColor=white" />
 </a>
-&nbsp;
+
 
 ### About Me ###
 ----------------------------------------------------------------------------------------------------------------------------
 
-- Web Development
-
-
 Currently, I am learning React (Check my [repo](https://github.com/Arose114?tab=repositories) for more).
-I have completed my 2 years National Diploma in Computer Science from [Kwara State Polytechnic, Ilorin](https://kwarastatepolytechnic.edu.ng/).
-At this instance, I am in my B.Sc. Computer Science finals in [University of Ilorin, Ilorin](https://www.unilorin.edu.ng/).
+
+- Web Development (React.js)
+- Data Analysis (Python)
+- Data Science (In view)
+- Academic Researcher
+
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on open source project
 - 💬 Ask me about anything and everything
-- 📫 How to reach me: akinolakemi70@yahoo.com
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
